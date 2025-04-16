@@ -30,16 +30,7 @@ In this part, we explore various augmentation strategies and generalization tech
 ### ✅ Data Augmentation Domains
 Each subdomain includes implementation using either TensorFlow, AugLy, or specialized libraries:
 
-| Domain          | Colab Link |
-|-----------------|------------|
-| Image           | [Colab](#) |
-| Video           | [Colab](#) |
-| Text (NLP)      | [Colab](#) |
-| Time Series     | [Colab](#) |
-| Tabular Data    | [Colab](#) |
-| Speech          | [Colab](#) |
-| Document Images | [Colab](#) |
-| fastai Augment  | [Colab](#) |
+📃 [Data Augmentation & Generalization Techniques Colab](https://github.com/syedanida/NeuralNetworks_with_Keras/blob/main/1_Data_Augmentation_%26_Generalization_Techniques.ipynb)
 
 ---
 
@@ -47,23 +38,6 @@ Each subdomain includes implementation using either TensorFlow, AugLy, or specia
 
 In this part, we dive deep into advanced TensorFlow & Keras customizations to get a firm grasp of how deep learning works under the hood.
 
-### 🔧 Covered Concepts
-
-| Concept | Description |
-|--------|-------------|
-| **Custom Learning Rate Scheduler** | Implemented OneCycleScheduler |
-| **Custom Dropout** | Included MCAlphaDropout variant |
-| **Custom Normalization** | Used MaxNormDense layer |
-| **TensorBoard Integration** | For monitoring training progress |
-| **Custom Loss Function** | Implemented HuberLoss |
-| **Custom Activations & Initializers** | E.g., leaky_relu, my_glorot_initializer |
-| **Custom Metrics** | HuberMetric |
-| **Custom Layers** | e.g., AddGaussianNoise, LayerNormalization |
-| **Custom Models** | ResidualRegressor, ResidualBlock |
-| **Custom Optimizer** | Created MyMomentumOptimizer |
-| **Custom Training Loop** | Full control over training logic (e.g., Fashion MNIST) |
-
-👉 Check out the implementation:  
-[Advanced Keras Constructs Colab Notebooks](#)
+📃 [Advanced Keras Constructs Colab Notebooks](https://github.com/syedanida/NeuralNetworks_with_Keras/blob/main/2_Advanced_Keras_Deep_Learning_Constructs.ipynb)
 
 
