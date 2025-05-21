@@ -9,7 +9,7 @@ This repository is organized into two major parts:
 
 ## 🎥 Video Walkthrough
 
-📌 [Watch the full walkthrough here](#)  
+📌 [Video Link](https://youtu.be/vMH9xKc-5Mg)  
 
 ---
 
